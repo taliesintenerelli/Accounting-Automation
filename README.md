@@ -1,2 +1,2 @@
 # Accounting-Automation
-This is the first part to a program in python that automates accounting processes for Ano food delivery company. This section of code looks through a PDF for a patterns that signifies that there is financial data to be extracted and declares each line with that information inside as a "line". It then puts all the wanted information from each of those lines into a CSV file.
+Using python to read a pdf bank statement, put it into a CSV file, and then do accounting processes based on the company the purchase was made from.
